@@ -1,2 +1,2 @@
 # Python-Text-Based-Games
-A collection of simple text-based games for python
+Коллекция текстовых игр для практики в <a href="https://pythononline.kz/">онлайн-редакторе кода Python</a>.
